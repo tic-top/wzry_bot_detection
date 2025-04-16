@@ -5,7 +5,7 @@
 chrome开发者模式去拿到对局json，然后`python main.py`直接把红蓝方提出来。
 
 ## Case
-```json
+```
 ###################      redrole:     ################### 
 {'roleName': 'ARCHERY', 'roleIcon': 'https://ogdb-cdn.intlgame.cn/google_turkey/1602212096437-d0af1ce0553e.png'}
 {'roleName': 'SALLYAN', 'roleIcon': 'https://ogdb-cdn.intlgame.cn/google_turkey/1573017714772-9e1a0f92d734.png'}
