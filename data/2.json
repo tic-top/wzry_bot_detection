@@ -1,0 +1,2552 @@
+{
+    "result": 0,
+    "returnCode": 0,
+    "returnMsg": "",
+    "data": {
+        "head": {
+            "gameResult": false,
+            "acntCamp": 1,
+            "mapName": "排位赛",
+            "gradeGame": "10.6",
+            "kda": "3.21",
+            "labels": [],
+            "killCnt": 8,
+            "deadCnt": 7,
+            "assistCnt": 7,
+            "roleId": "2700755",
+            "roleIcon": "https://res.sgameglobal.com/Global/Common/UGUI/SystemRes/044_Idip/PlayerHeadIcon/3.png",
+            "roleName": "国服在榜人机",
+            "bgImg": "https://camp.honorofkings.com/social/game/src/image_hero_cover_750*754/I0enPv5B.png",
+            "teamNum": 1,
+            "matchDesc": "尽力局",
+            "tips": "就差一点点运气",
+            "userId": "0",
+            "heroId": 169,
+            "heroName": "2439859418188883998",
+            "playerId": "1660150296936322642"
+        },
+        "battle": {
+            "gameType": 4,
+            "usedTime": 1265,
+            "dtEventTime": "1729508499",
+            "mapName": "排位赛",
+            "startTime": "1729507234"
+        },
+        "redTeam": {
+            "acntCamp": 2,
+            "banHeros": [
+                {
+                    "heroId": 577,
+                    "heroIcon": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/Qdvu6qgO.png",
+                    "heroName": "2439859421765680831",
+                    "heroCover": ""
+                },
+                {
+                    "heroId": 517,
+                    "heroIcon": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/ue6KY05b.png",
+                    "heroName": "2439859421593905925",
+                    "heroCover": ""
+                }
+            ],
+            "pickHeros": [
+                {
+                    "heroId": 142,
+                    "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/wjaExUFU.png",
+                    "heroName": "2439859418125161049",
+                    "heroCover": ""
+                },
+                {
+                    "heroId": 547,
+                    "heroIcon": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/znRnu3kt.png",
+                    "heroName": "2439859421679793378",
+                    "heroCover": ""
+                },
+                {
+                    "heroId": 507,
+                    "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/mWSBbpVr.png",
+                    "heroName": "2439859421565276774",
+                    "heroCover": ""
+                },
+                {
+                    "heroId": 113,
+                    "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/UZC54GWu.png",
+                    "heroName": "2439859418040197117",
+                    "heroCover": ""
+                },
+                {
+                    "heroId": 528,
+                    "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/02i6M2YK.png",
+                    "heroName": "2439859421623458597",
+                    "heroCover": ""
+                }
+            ],
+            "killCnt": 25,
+            "deadCnt": 22,
+            "assistCnt": 37,
+            "money": 65592,
+            "moneyTrend": [],
+            "towerCnt": 9,
+            "ldragon1": 0,
+            "ldragon2": 1,
+            "bdragon1": 2,
+            "bdragon2": 2,
+            "bdragon3": 0,
+            "gameResult": true,
+            "banCnt": 3
+        },
+        "blueTeam": {
+            "acntCamp": 1,
+            "banHeros": [
+                {
+                    "heroId": 184,
+                    "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/kQXkW7ab.png",
+                    "heroName": "2439859418241524695",
+                    "heroCover": ""
+                },
+                {
+                    "heroId": 519,
+                    "heroIcon": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/OzH2TSZN.jpg",
+                    "heroName": "2439859421595752967",
+                    "heroCover": ""
+                }
+            ],
+            "pickHeros": [
+                {
+                    "heroId": 169,
+                    "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/S5isJokI.png",
+                    "heroName": "2439859418188883998",
+                    "heroCover": ""
+                },
+                {
+                    "heroId": 132,
+                    "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/48d8GxkP.png",
+                    "heroName": "2439859418096531898",
+                    "heroCover": ""
+                },
+                {
+                    "heroId": 114,
+                    "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/i8WMjP6d.png",
+                    "heroName": "2439859418041120638",
+                    "heroCover": ""
+                },
+                {
+                    "heroId": 190,
+                    "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/XDnXeq3x.png",
+                    "heroName": "2439859418266459762",
+                    "heroCover": ""
+                },
+                {
+                    "heroId": 126,
+                    "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/23rrkYYy.png",
+                    "heroName": "2439859418071596831",
+                    "heroCover": ""
+                }
+            ],
+            "killCnt": 22,
+            "deadCnt": 25,
+            "assistCnt": 31,
+            "money": 62573,
+            "moneyTrend": [],
+            "towerCnt": 3,
+            "ldragon1": 1,
+            "ldragon2": 0,
+            "bdragon1": 0,
+            "bdragon2": 0,
+            "bdragon3": 0,
+            "gameResult": false,
+            "banCnt": 3
+        },
+        "redRoles": [
+            {
+                "basicInfo": {
+                    "roleId": "1600688",
+                    "roleName": "BánhTrángMuốiỚt",
+                    "roleIcon": "https://res.sgameglobal.com/Global/Common/UGUI/SystemRes/044_Idip/PlayerHeadIcon/1.png",
+                    "openId": "12322330588755184692",
+                    "areaId": 0,
+                    "serverId": 0,
+                    "acntCamp": 2,
+                    "userId": "0",
+                    "isMI": 0,
+                    "isGameAuth": true,
+                    "playerId": "12322330588755184692"
+                },
+                "heroBehavior": {
+                    "winNum": 42,
+                    "loseNum": 22,
+                    "avgScore": "9.8",
+                    "winRate": "65.6%"
+                },
+                "dataBehavior": [
+                    {
+                        "title": "输出",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/0-0.png",
+                        "value1": "28.4%",
+                        "value2": "175.5k"
+                    },
+                    {
+                        "title": "伤害转化",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/1-0.png",
+                        "value1": "1.3",
+                        "value2": ""
+                    },
+                    {
+                        "title": "承受伤害",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/2-0.png",
+                        "value1": "14.9%",
+                        "value2": "83.2k"
+                    },
+                    {
+                        "title": "每死承伤",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/3-0.png",
+                        "value1": "83.2k",
+                        "value2": ""
+                    },
+                    {
+                        "title": "参团率",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/4-0.png",
+                        "value1": "52%",
+                        "value2": ""
+                    }
+                ],
+                "battleStats": {
+                    "killCnt": 8,
+                    "deadCnt": 1,
+                    "assistCnt": 5,
+                    "money": 14831,
+                    "exp": 2202,
+                    "towerCnt": 0,
+                    "evaluateIcon": "https://camp.honorofkings.com/social/game/BranchEvaluate/1_4.png",
+                    "gradeGame": "14.0",
+                    "mvp": true,
+                    "godLikeCnt": 0,
+                    "sabchurthero": "s",
+                    "sabcbattle": "a",
+                    "sabcgrow": "s",
+                    "sabcKDA": "a",
+                    "sabcsurvive": "a",
+                    "tripleKillCnt": 0,
+                    "UltraKillCnt": 0,
+                    "rampageCnt": 0,
+                    "defeatAcntRatio": "90.7",
+                    "totalHurtCnt": "451664",
+                    "totalHeroHurtCnt": "175479",
+                    "hurtTransRate": "1.3",
+                    "totalBehurtCnt": "91632",
+                    "totalBeheroHurtCnt": "83249",
+                    "behurtPerDeath": "83249",
+                    "joinGamePercent": "0.520",
+                    "healCnt": "8365",
+                    "ctrlTime": "26",
+                    "buildingDamage": "1743",
+                    "monsterCoin": "645",
+                    "killSoldier": "62",
+                    "oldMasterMatchScore": 1200,
+                    "newMasterMatchScore": 1200,
+                    "disGradeLevelId": "0",
+                    "gradeLevelId": 25,
+                    "fightPower": 3433,
+                    "maxKill": 1,
+                    "maxHurt": 0,
+                    "maxBehurt": 0,
+                    "maxAssist": 0,
+                    "maxTower": 0,
+                    "heroLevel": 15,
+                    "kda": "19.50",
+                    "evaluateType": 10,
+                    "addFightPower": 0,
+                    "mvpScoreTth": 1395,
+                    "maxJoinGamePercent": 0,
+                    "maxHeroHurt": 1,
+                    "maxBeheroHurt": 0,
+                    "maxMoney": 0,
+                    "ry": 0,
+                    "evaluateIconV2": "https://camp.qq.com/battle/common/evaluateV3/gold_mage.png",
+                    "evaluateName": "金牌法师",
+                    "mvpUrl": "https://camp.honorofkings.com/social/game/BranchEvaluate/mvp.png"
+                },
+                "battleRecords": {
+                    "usedHero": {
+                        "heroId": 142,
+                        "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/wjaExUFU.png",
+                        "heroName": "2439859418125161049",
+                        "heroCover": "https://camp.honorofkings.com/social/game/src/image_hero_cover_702*1070/xEZI2ng1.png"
+                    },
+                    "usedSkin": null,
+                    "position": 1,
+                    "inBattleObjid": 113,
+                    "finalEquips": [
+                        {
+                            "equipId": 1424,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1424.png",
+                            "equipName": "1934189110454210593"
+                        },
+                        {
+                            "equipId": 1233,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1233.png",
+                            "equipName": "1934189056287856901"
+                        },
+                        {
+                            "equipId": 1240,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1240.png",
+                            "equipName": "1934189057089473129"
+                        },
+                        {
+                            "equipId": 1232,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png",
+                            "equipName": "1934189056259227750"
+                        },
+                        {
+                            "equipId": 1231,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png",
+                            "equipName": "1934189056230598599"
+                        },
+                        {
+                            "equipId": 1238,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1238.png",
+                            "equipName": "1934189056431002656"
+                        }
+                    ],
+                    "skill": {
+                        "skillId": 80115,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/flash.png",
+                        "skillName": "7606882661483899723"
+                    },
+                    "highLight": [],
+                    "teamNum": 2,
+                    "teamFlag": 0,
+                    "teamRealFlag": 1
+                },
+                "recCards": []
+            },
+            {
+                "basicInfo": {
+                    "roleId": "1600689",
+                    "roleName": "ChipLe",
+                    "roleIcon": "https://res.sgameglobal.com/Global/Common/UGUI/SystemRes/044_Idip/PlayerHeadIcon/4.png",
+                    "openId": "12684518600641319347",
+                    "areaId": 0,
+                    "serverId": 0,
+                    "acntCamp": 2,
+                    "userId": "0",
+                    "isMI": 0,
+                    "isGameAuth": true,
+                    "playerId": "12684518600641319347"
+                },
+                "heroBehavior": {
+                    "winNum": 4,
+                    "loseNum": 1,
+                    "avgScore": "7.0",
+                    "winRate": "80.0%"
+                },
+                "dataBehavior": [
+                    {
+                        "title": "输出",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/0-0.png",
+                        "value1": "17.4%",
+                        "value2": "107.2k"
+                    },
+                    {
+                        "title": "伤害转化",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/1-0.png",
+                        "value1": "0.8",
+                        "value2": ""
+                    },
+                    {
+                        "title": "承受伤害",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/2-0.png",
+                        "value1": "20.2%",
+                        "value2": "113.1k"
+                    },
+                    {
+                        "title": "每死承伤",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/3-0.png",
+                        "value1": "16.2k",
+                        "value2": ""
+                    },
+                    {
+                        "title": "参团率",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/4-0.png",
+                        "value1": "52%",
+                        "value2": ""
+                    }
+                ],
+                "battleStats": {
+                    "killCnt": 7,
+                    "deadCnt": 7,
+                    "assistCnt": 6,
+                    "money": 13535,
+                    "exp": 2202,
+                    "towerCnt": 1,
+                    "evaluateIcon": "",
+                    "gradeGame": "7.2",
+                    "mvp": false,
+                    "godLikeCnt": 0,
+                    "sabchurthero": "a",
+                    "sabcbattle": "a",
+                    "sabcgrow": "a",
+                    "sabcKDA": "b",
+                    "sabcsurvive": "a",
+                    "tripleKillCnt": 0,
+                    "UltraKillCnt": 0,
+                    "rampageCnt": 0,
+                    "defeatAcntRatio": "57.1",
+                    "totalHurtCnt": "618798",
+                    "totalHeroHurtCnt": "107195",
+                    "hurtTransRate": "0.8",
+                    "totalBehurtCnt": "141161",
+                    "totalBeheroHurtCnt": "113083",
+                    "behurtPerDeath": "16154",
+                    "joinGamePercent": "0.520",
+                    "healCnt": "54875",
+                    "ctrlTime": "9",
+                    "buildingDamage": "2325",
+                    "monsterCoin": "4281",
+                    "killSoldier": "25",
+                    "oldMasterMatchScore": 1200,
+                    "newMasterMatchScore": 1200,
+                    "disGradeLevelId": "0",
+                    "gradeLevelId": 25,
+                    "fightPower": 220,
+                    "maxKill": 0,
+                    "maxHurt": 1,
+                    "maxBehurt": 0,
+                    "maxAssist": 0,
+                    "maxTower": 0,
+                    "heroLevel": 15,
+                    "kda": "2.79",
+                    "evaluateType": 0,
+                    "addFightPower": 0,
+                    "mvpScoreTth": 720,
+                    "maxJoinGamePercent": 0,
+                    "maxHeroHurt": 0,
+                    "maxBeheroHurt": 0,
+                    "maxMoney": 0,
+                    "ry": 0,
+                    "evaluateIconV2": "",
+                    "evaluateName": "",
+                    "mvpUrl": ""
+                },
+                "battleRecords": {
+                    "usedHero": {
+                        "heroId": 528,
+                        "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/02i6M2YK.png",
+                        "heroName": "2439859421623458597",
+                        "heroCover": "https://camp.honorofkings.com/social/game/src/image_hero_cover_702*1070/O2e27Rq3.png"
+                    },
+                    "usedSkin": null,
+                    "position": 3,
+                    "inBattleObjid": 196,
+                    "finalEquips": [
+                        {
+                            "equipId": 1533,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1533.png",
+                            "equipName": "1934189138825699234"
+                        },
+                        {
+                            "equipId": 1423,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1423.png",
+                            "equipName": "1934189110425581442"
+                        },
+                        {
+                            "equipId": 11311,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/11311.png",
+                            "equipName": "4619627635126014249"
+                        },
+                        {
+                            "equipId": 1137,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1137.png",
+                            "equipName": "1934189028889759394"
+                        },
+                        {
+                            "equipId": 13310,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/13310.png",
+                            "equipName": "4619629340879459980"
+                        },
+                        {
+                            "equipId": 1333,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png",
+                            "equipName": "1934189083800471012"
+                        }
+                    ],
+                    "skill": {
+                        "skillId": 80104,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/80104.png",
+                        "skillName": "7606882660567766891"
+                    },
+                    "highLight": [],
+                    "teamNum": 2,
+                    "teamFlag": 0,
+                    "teamRealFlag": 1
+                },
+                "recCards": []
+            },
+            {
+                "basicInfo": {
+                    "roleId": "1236814",
+                    "roleName": "LegalEmu#",
+                    "roleIcon": "",
+                    "openId": "10727491643371166698",
+                    "areaId": 0,
+                    "serverId": 0,
+                    "acntCamp": 2,
+                    "userId": "0",
+                    "isMI": 0,
+                    "isGameAuth": false,
+                    "playerId": "505158634"
+                },
+                "heroBehavior": {
+                    "winNum": 0,
+                    "loseNum": 0,
+                    "avgScore": "0.0",
+                    "winRate": "0"
+                },
+                "dataBehavior": [
+                    {
+                        "title": "输出",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/0-0.png",
+                        "value1": "14.9%",
+                        "value2": "91.7k"
+                    },
+                    {
+                        "title": "伤害转化",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/1-0.png",
+                        "value1": "1",
+                        "value2": ""
+                    },
+                    {
+                        "title": "承受伤害",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/2-0.png",
+                        "value1": "30.9%",
+                        "value2": "172.7k"
+                    },
+                    {
+                        "title": "每死承伤",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/3-0.png",
+                        "value1": "43.2k",
+                        "value2": ""
+                    },
+                    {
+                        "title": "参团率",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/4-0.png",
+                        "value1": "68%",
+                        "value2": ""
+                    }
+                ],
+                "battleStats": {
+                    "killCnt": 1,
+                    "deadCnt": 4,
+                    "assistCnt": 16,
+                    "money": 9751,
+                    "exp": 2202,
+                    "towerCnt": 0,
+                    "evaluateIcon": "",
+                    "gradeGame": "10.2",
+                    "mvp": false,
+                    "godLikeCnt": 0,
+                    "sabchurthero": "s",
+                    "sabcbattle": "s",
+                    "sabcgrow": "a",
+                    "sabcKDA": "b",
+                    "sabcsurvive": "a",
+                    "tripleKillCnt": 0,
+                    "UltraKillCnt": 0,
+                    "rampageCnt": 0,
+                    "defeatAcntRatio": "73.1",
+                    "totalHurtCnt": "118570",
+                    "totalHeroHurtCnt": "91674",
+                    "hurtTransRate": "1",
+                    "totalBehurtCnt": "203255",
+                    "totalBeheroHurtCnt": "172696",
+                    "behurtPerDeath": "43174",
+                    "joinGamePercent": "0.680",
+                    "healCnt": "18153",
+                    "ctrlTime": "0",
+                    "buildingDamage": "350",
+                    "monsterCoin": "318",
+                    "killSoldier": "9",
+                    "oldMasterMatchScore": 0,
+                    "newMasterMatchScore": 0,
+                    "disGradeLevelId": "0",
+                    "gradeLevelId": 25,
+                    "fightPower": 0,
+                    "maxKill": 0,
+                    "maxHurt": 0,
+                    "maxBehurt": 1,
+                    "maxAssist": 1,
+                    "maxTower": 0,
+                    "heroLevel": 15,
+                    "kda": "6.38",
+                    "evaluateType": 0,
+                    "addFightPower": 0,
+                    "mvpScoreTth": 1020,
+                    "maxJoinGamePercent": 1,
+                    "maxHeroHurt": 0,
+                    "maxBeheroHurt": 1,
+                    "maxMoney": 0,
+                    "ry": 0,
+                    "evaluateIconV2": "",
+                    "evaluateName": "",
+                    "mvpUrl": ""
+                },
+                "battleRecords": {
+                    "usedHero": {
+                        "heroId": 113,
+                        "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/UZC54GWu.png",
+                        "heroName": "2439859418040197117",
+                        "heroCover": "https://camp.honorofkings.com/social/game/src/image_hero_cover_702*1070/HekgqaxG.png"
+                    },
+                    "usedSkin": null,
+                    "position": 4,
+                    "inBattleObjid": 1334,
+                    "finalEquips": [
+                        {
+                            "equipId": 1724,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1751.png",
+                            "equipName": "1934189192992052926"
+                        },
+                        {
+                            "equipId": 1423,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1423.png",
+                            "equipName": "1934189110425581442"
+                        },
+                        {
+                            "equipId": 1335,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png",
+                            "equipName": "1934189083857729314"
+                        },
+                        {
+                            "equipId": 1353,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1353.png",
+                            "equipName": "1934189085575478374"
+                        },
+                        {
+                            "equipId": 1333,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png",
+                            "equipName": "1934189083800471012"
+                        },
+                        {
+                            "equipId": 1311,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1311.png",
+                            "equipName": "1934189081968205348"
+                        }
+                    ],
+                    "skill": {
+                        "skillId": 80102,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/80102.png",
+                        "skillName": "7606882660510508589"
+                    },
+                    "highLight": [],
+                    "teamNum": 0,
+                    "teamFlag": 0,
+                    "teamRealFlag": 0
+                },
+                "recCards": []
+            },
+            {
+                "basicInfo": {
+                    "roleId": "1534468",
+                    "roleName": "Bmarq",
+                    "roleIcon": "https://res.sgameglobal.com/Global/Common/UGUI/SystemRes/044_Idip/PlayerHeadIcon/5.png",
+                    "openId": "6314838916938564543",
+                    "areaId": 0,
+                    "serverId": 0,
+                    "acntCamp": 2,
+                    "userId": "0",
+                    "isMI": 0,
+                    "isGameAuth": true,
+                    "playerId": "6314838916938564543"
+                },
+                "heroBehavior": {
+                    "winNum": 157,
+                    "loseNum": 123,
+                    "avgScore": "9.4",
+                    "winRate": "56.1%"
+                },
+                "dataBehavior": [
+                    {
+                        "title": "输出",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/0-0.png",
+                        "value1": "19.5%",
+                        "value2": "120.1k"
+                    },
+                    {
+                        "title": "伤害转化",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/1-0.png",
+                        "value1": "1",
+                        "value2": ""
+                    },
+                    {
+                        "title": "承受伤害",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/2-0.png",
+                        "value1": "14%",
+                        "value2": "78.4k"
+                    },
+                    {
+                        "title": "每死承伤",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/3-0.png",
+                        "value1": "13.1k",
+                        "value2": ""
+                    },
+                    {
+                        "title": "参团率",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/4-0.png",
+                        "value1": "60%",
+                        "value2": ""
+                    }
+                ],
+                "battleStats": {
+                    "killCnt": 7,
+                    "deadCnt": 6,
+                    "assistCnt": 8,
+                    "money": 12527,
+                    "exp": 2202,
+                    "towerCnt": 0,
+                    "evaluateIcon": "",
+                    "gradeGame": "7.3",
+                    "mvp": false,
+                    "godLikeCnt": 0,
+                    "sabchurthero": "a",
+                    "sabcbattle": "a",
+                    "sabcgrow": "a",
+                    "sabcKDA": "b",
+                    "sabcsurvive": "a",
+                    "tripleKillCnt": 0,
+                    "UltraKillCnt": 0,
+                    "rampageCnt": 0,
+                    "defeatAcntRatio": "58.0",
+                    "totalHurtCnt": "580491",
+                    "totalHeroHurtCnt": "120138",
+                    "hurtTransRate": "1",
+                    "totalBehurtCnt": "98852",
+                    "totalBeheroHurtCnt": "78441",
+                    "behurtPerDeath": "13073",
+                    "joinGamePercent": "0.600",
+                    "healCnt": "3602",
+                    "ctrlTime": "10",
+                    "buildingDamage": "6626",
+                    "monsterCoin": "2502",
+                    "killSoldier": "27",
+                    "oldMasterMatchScore": 1200,
+                    "newMasterMatchScore": 1200,
+                    "disGradeLevelId": "0",
+                    "gradeLevelId": 16,
+                    "fightPower": 4013,
+                    "maxKill": 0,
+                    "maxHurt": 0,
+                    "maxBehurt": 0,
+                    "maxAssist": 0,
+                    "maxTower": 0,
+                    "heroLevel": 15,
+                    "kda": "3.75",
+                    "evaluateType": 0,
+                    "addFightPower": 0,
+                    "mvpScoreTth": 730,
+                    "maxJoinGamePercent": 0,
+                    "maxHeroHurt": 0,
+                    "maxBeheroHurt": 0,
+                    "maxMoney": 0,
+                    "ry": 0,
+                    "evaluateIconV2": "",
+                    "evaluateName": "",
+                    "mvpUrl": ""
+                },
+                "battleRecords": {
+                    "usedHero": {
+                        "heroId": 547,
+                        "heroIcon": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/znRnu3kt.png",
+                        "heroName": "2439859421679793378",
+                        "heroCover": "https://camp.honorofkings.com/camp/admin/hero/cover_702-1070/LVzibFFg.png"
+                    },
+                    "usedSkin": null,
+                    "position": 2,
+                    "inBattleObjid": 1482,
+                    "finalEquips": [
+                        {
+                            "equipId": 1421,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1421.png",
+                            "equipName": "1934189110368323140"
+                        },
+                        {
+                            "equipId": 1136,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1136.png",
+                            "equipName": "1934189028861130243"
+                        },
+                        {
+                            "equipId": 11210,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/11210.png",
+                            "equipName": "4619627607584770987"
+                        },
+                        {
+                            "equipId": 1133,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1133.png",
+                            "equipName": "1934189028775242790"
+                        },
+                        {
+                            "equipId": 1155,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png",
+                            "equipName": "1934189030607508454"
+                        },
+                        {
+                            "equipId": 1141,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1141.png",
+                            "equipName": "1934189029605488169"
+                        }
+                    ],
+                    "skill": {
+                        "skillId": 80115,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/flash.png",
+                        "skillName": "7606882661483899723"
+                    },
+                    "highLight": [],
+                    "teamNum": 1,
+                    "teamFlag": 0,
+                    "teamRealFlag": 4
+                },
+                "recCards": []
+            },
+            {
+                "basicInfo": {
+                    "roleId": "2174162",
+                    "roleName": "中年玩家",
+                    "roleIcon": "https://camp.honorofkings.com/client/upload/hok/avatar/6640565939047432039/6640565939047432039_108011_1_avatar.jpg",
+                    "openId": "6640565939047432039",
+                    "areaId": 0,
+                    "serverId": 0,
+                    "acntCamp": 2,
+                    "userId": "0",
+                    "isMI": 0,
+                    "isGameAuth": true,
+                    "playerId": "6640565939047432039"
+                },
+                "heroBehavior": {
+                    "winNum": 51,
+                    "loseNum": 41,
+                    "avgScore": "8.5",
+                    "winRate": "55.4%"
+                },
+                "dataBehavior": [
+                    {
+                        "title": "输出",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/0-0.png",
+                        "value1": "19.9%",
+                        "value2": "122.6k"
+                    },
+                    {
+                        "title": "伤害转化",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/1-0.png",
+                        "value1": "0.9",
+                        "value2": ""
+                    },
+                    {
+                        "title": "承受伤害",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/2-0.png",
+                        "value1": "20.1%",
+                        "value2": "112.3k"
+                    },
+                    {
+                        "title": "每死承伤",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/3-0.png",
+                        "value1": "28.1k",
+                        "value2": ""
+                    },
+                    {
+                        "title": "参团率",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/4-0.png",
+                        "value1": "16%",
+                        "value2": ""
+                    }
+                ],
+                "battleStats": {
+                    "killCnt": 2,
+                    "deadCnt": 4,
+                    "assistCnt": 2,
+                    "money": 14948,
+                    "exp": 2202,
+                    "towerCnt": 3,
+                    "evaluateIcon": "",
+                    "gradeGame": "8.9",
+                    "mvp": false,
+                    "godLikeCnt": 0,
+                    "sabchurthero": "a",
+                    "sabcbattle": "a",
+                    "sabcgrow": "s",
+                    "sabcKDA": "b",
+                    "sabcsurvive": "a",
+                    "tripleKillCnt": 0,
+                    "UltraKillCnt": 0,
+                    "rampageCnt": 0,
+                    "defeatAcntRatio": "66.6",
+                    "totalHurtCnt": "613940",
+                    "totalHeroHurtCnt": "122607",
+                    "hurtTransRate": "0.9",
+                    "totalBehurtCnt": "141756",
+                    "totalBeheroHurtCnt": "112303",
+                    "behurtPerDeath": "28075",
+                    "joinGamePercent": "0.160",
+                    "healCnt": "75448",
+                    "ctrlTime": "19",
+                    "buildingDamage": "24405",
+                    "monsterCoin": "1576",
+                    "killSoldier": "74",
+                    "oldMasterMatchScore": 1200,
+                    "newMasterMatchScore": 1200,
+                    "disGradeLevelId": "0",
+                    "gradeLevelId": 24,
+                    "fightPower": 3544,
+                    "maxKill": 0,
+                    "maxHurt": 0,
+                    "maxBehurt": 0,
+                    "maxAssist": 0,
+                    "maxTower": 1,
+                    "heroLevel": 15,
+                    "kda": "1.50",
+                    "evaluateType": 0,
+                    "addFightPower": 0,
+                    "mvpScoreTth": 890,
+                    "maxJoinGamePercent": 0,
+                    "maxHeroHurt": 0,
+                    "maxBeheroHurt": 0,
+                    "maxMoney": 1,
+                    "ry": 0,
+                    "evaluateIconV2": "",
+                    "evaluateName": "",
+                    "mvpUrl": ""
+                },
+                "battleRecords": {
+                    "usedHero": {
+                        "heroId": 507,
+                        "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/mWSBbpVr.png",
+                        "heroName": "2439859421565276774",
+                        "heroCover": "https://camp.honorofkings.com/social/game/src/image_hero_cover_702*1070/Wzu1mua6.png"
+                    },
+                    "usedSkin": null,
+                    "position": 0,
+                    "inBattleObjid": 1721,
+                    "finalEquips": [
+                        {
+                            "equipId": 1135,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1135.png",
+                            "equipName": "1934189028832501092"
+                        },
+                        {
+                            "equipId": 1421,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1421.png",
+                            "equipName": "1934189110368323140"
+                        },
+                        {
+                            "equipId": 1126,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1126.png",
+                            "equipName": "1934189027973626562"
+                        },
+                        {
+                            "equipId": 1333,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png",
+                            "equipName": "1934189083800471012"
+                        },
+                        {
+                            "equipId": 1338,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1338.png",
+                            "equipName": "1934189083943616767"
+                        },
+                        {
+                            "equipId": 1328,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1328.png",
+                            "equipName": "1934189083056113086"
+                        }
+                    ],
+                    "skill": {
+                        "skillId": 80108,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/80108.png",
+                        "skillName": "7606882660682283495"
+                    },
+                    "highLight": [],
+                    "teamNum": 1,
+                    "teamFlag": 0,
+                    "teamRealFlag": 2
+                },
+                "recCards": []
+            }
+        ],
+        "blueRoles": [
+            {
+                "basicInfo": {
+                    "roleId": "2700755",
+                    "roleName": "国服在榜人机",
+                    "roleIcon": "https://res.sgameglobal.com/Global/Common/UGUI/SystemRes/044_Idip/PlayerHeadIcon/3.png",
+                    "openId": "1660150296936322642",
+                    "areaId": 0,
+                    "serverId": 0,
+                    "acntCamp": 1,
+                    "userId": "0",
+                    "isMI": 0,
+                    "isGameAuth": true,
+                    "playerId": "1660150296936322642"
+                },
+                "heroBehavior": {
+                    "winNum": 4,
+                    "loseNum": 3,
+                    "avgScore": "7.8",
+                    "winRate": "57.1%"
+                },
+                "dataBehavior": [
+                    {
+                        "title": "输出",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/0-0.png",
+                        "value1": "31.5%",
+                        "value2": "176.1k"
+                    },
+                    {
+                        "title": "伤害转化",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/1-0.png",
+                        "value1": "1.5",
+                        "value2": ""
+                    },
+                    {
+                        "title": "承受伤害",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/2-0.png",
+                        "value1": "13.7%",
+                        "value2": "84.5k"
+                    },
+                    {
+                        "title": "每死承伤",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/3-0.png",
+                        "value1": "12.1k",
+                        "value2": ""
+                    },
+                    {
+                        "title": "参团率",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/4-0.png",
+                        "value1": "68%",
+                        "value2": ""
+                    }
+                ],
+                "battleStats": {
+                    "killCnt": 8,
+                    "deadCnt": 7,
+                    "assistCnt": 7,
+                    "money": 13529,
+                    "exp": 2202,
+                    "towerCnt": 0,
+                    "evaluateIcon": "",
+                    "gradeGame": "10.6",
+                    "mvp": true,
+                    "godLikeCnt": 0,
+                    "sabchurthero": "s",
+                    "sabcbattle": "a",
+                    "sabcgrow": "a",
+                    "sabcKDA": "b",
+                    "sabcsurvive": "a",
+                    "tripleKillCnt": 0,
+                    "UltraKillCnt": 0,
+                    "rampageCnt": 0,
+                    "defeatAcntRatio": "74.7",
+                    "totalHurtCnt": "625035",
+                    "totalHeroHurtCnt": "176112",
+                    "hurtTransRate": "1.5",
+                    "totalBehurtCnt": "101046",
+                    "totalBeheroHurtCnt": "84470",
+                    "behurtPerDeath": "12067",
+                    "joinGamePercent": "0.682",
+                    "healCnt": "12312",
+                    "ctrlTime": "45",
+                    "buildingDamage": "1969",
+                    "monsterCoin": "1823",
+                    "killSoldier": "40",
+                    "oldMasterMatchScore": 1200,
+                    "newMasterMatchScore": 1200,
+                    "disGradeLevelId": "0",
+                    "gradeLevelId": 16,
+                    "fightPower": 459,
+                    "maxKill": 1,
+                    "maxHurt": 0,
+                    "maxBehurt": 0,
+                    "maxAssist": 0,
+                    "maxTower": 1,
+                    "heroLevel": 15,
+                    "kda": "3.21",
+                    "evaluateType": 0,
+                    "addFightPower": -9,
+                    "mvpScoreTth": 1060,
+                    "maxJoinGamePercent": 1,
+                    "maxHeroHurt": 1,
+                    "maxBeheroHurt": 0,
+                    "maxMoney": 0,
+                    "ry": 0,
+                    "evaluateIconV2": "",
+                    "evaluateName": "",
+                    "mvpUrl": "https://camp.honorofkings.com/social/game/BranchEvaluate/mvp.png"
+                },
+                "battleRecords": {
+                    "usedHero": {
+                        "heroId": 169,
+                        "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/S5isJokI.png",
+                        "heroName": "2439859418188883998",
+                        "heroCover": "https://camp.honorofkings.com/social/game/src/image_hero_cover_702*1070/aDpAw1cj.png"
+                    },
+                    "usedSkin": null,
+                    "position": 2,
+                    "inBattleObjid": 677,
+                    "finalEquips": [
+                        {
+                            "equipId": 1425,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1425.png",
+                            "equipName": "1934189110482839744"
+                        },
+                        {
+                            "equipId": 1135,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1135.png",
+                            "equipName": "1934189028832501092"
+                        },
+                        {
+                            "equipId": 1126,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1126.png",
+                            "equipName": "1934189027973626562"
+                        },
+                        {
+                            "equipId": 1141,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1141.png",
+                            "equipName": "1934189029605488169"
+                        },
+                        {
+                            "equipId": 1128,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1128.png",
+                            "equipName": "1934189028030884864"
+                        },
+                        {
+                            "equipId": 1338,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1338.png",
+                            "equipName": "1934189083943616767"
+                        }
+                    ],
+                    "skill": {
+                        "skillId": 80115,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/flash.png",
+                        "skillName": "7606882661483899723"
+                    },
+                    "highLight": [],
+                    "teamNum": 1,
+                    "teamFlag": 1,
+                    "teamRealFlag": 7
+                },
+                "recCards": []
+            },
+            {
+                "basicInfo": {
+                    "roleId": "14447",
+                    "roleName": "SombrioFotog",
+                    "roleIcon": "https://ogdb-cdn.intlgame.cn/draw/a/240371_910642497.png",
+                    "openId": "1893492438921401384",
+                    "areaId": 0,
+                    "serverId": 0,
+                    "acntCamp": 1,
+                    "userId": "0",
+                    "isMI": 0,
+                    "isGameAuth": false,
+                    "playerId": "1322013736"
+                },
+                "heroBehavior": {
+                    "winNum": 0,
+                    "loseNum": 0,
+                    "avgScore": "0.0",
+                    "winRate": "0"
+                },
+                "dataBehavior": [
+                    {
+                        "title": "输出",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/0-0.png",
+                        "value1": "14.2%",
+                        "value2": "79.7k"
+                    },
+                    {
+                        "title": "伤害转化",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/1-0.png",
+                        "value1": "1.1",
+                        "value2": ""
+                    },
+                    {
+                        "title": "承受伤害",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/2-0.png",
+                        "value1": "34.5%",
+                        "value2": "212.8k"
+                    },
+                    {
+                        "title": "每死承伤",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/3-0.png",
+                        "value1": "30.4k",
+                        "value2": ""
+                    },
+                    {
+                        "title": "参团率",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/4-0.png",
+                        "value1": "50%",
+                        "value2": ""
+                    }
+                ],
+                "battleStats": {
+                    "killCnt": 2,
+                    "deadCnt": 7,
+                    "assistCnt": 9,
+                    "money": 8319,
+                    "exp": 1809,
+                    "towerCnt": 0,
+                    "evaluateIcon": "",
+                    "gradeGame": "9.3",
+                    "mvp": false,
+                    "godLikeCnt": 0,
+                    "sabchurthero": "s",
+                    "sabcbattle": "b",
+                    "sabcgrow": "b",
+                    "sabcKDA": "b",
+                    "sabcsurvive": "a",
+                    "tripleKillCnt": 0,
+                    "UltraKillCnt": 0,
+                    "rampageCnt": 0,
+                    "defeatAcntRatio": "68.2",
+                    "totalHurtCnt": "81561",
+                    "totalHeroHurtCnt": "79733",
+                    "hurtTransRate": "1.1",
+                    "totalBehurtCnt": "225858",
+                    "totalBeheroHurtCnt": "212849",
+                    "behurtPerDeath": "30407",
+                    "joinGamePercent": "0.500",
+                    "healCnt": "11245",
+                    "ctrlTime": "50",
+                    "buildingDamage": "1336",
+                    "monsterCoin": "204",
+                    "killSoldier": "3",
+                    "oldMasterMatchScore": 0,
+                    "newMasterMatchScore": 0,
+                    "disGradeLevelId": "0",
+                    "gradeLevelId": 16,
+                    "fightPower": 0,
+                    "maxKill": 0,
+                    "maxHurt": 0,
+                    "maxBehurt": 1,
+                    "maxAssist": 1,
+                    "maxTower": 0,
+                    "heroLevel": 15,
+                    "kda": "2.36",
+                    "evaluateType": 0,
+                    "addFightPower": 0,
+                    "mvpScoreTth": 930,
+                    "maxJoinGamePercent": 0,
+                    "maxHeroHurt": 0,
+                    "maxBeheroHurt": 1,
+                    "maxMoney": 0,
+                    "ry": 0,
+                    "evaluateIconV2": "",
+                    "evaluateName": "",
+                    "mvpUrl": ""
+                },
+                "battleRecords": {
+                    "usedHero": {
+                        "heroId": 114,
+                        "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/i8WMjP6d.png",
+                        "heroName": "2439859418041120638",
+                        "heroCover": "https://camp.honorofkings.com/social/game/src/image_hero_cover_702*1070/2ZfOf6AD.png"
+                    },
+                    "usedSkin": null,
+                    "position": 4,
+                    "inBattleObjid": 2646,
+                    "finalEquips": [
+                        {
+                            "equipId": 1737,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1749.png",
+                            "equipName": "1934189193965444060"
+                        },
+                        {
+                            "equipId": 1422,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1422.png",
+                            "equipName": "1934189110396952291"
+                        },
+                        {
+                            "equipId": 1336,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1336.png",
+                            "equipName": "1934189083886358465"
+                        },
+                        {
+                            "equipId": 1347,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1347.png",
+                            "equipName": "1934189084802491297"
+                        },
+                        {
+                            "equipId": 1325,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1325.png",
+                            "equipName": "1934189082970225633"
+                        },
+                        {
+                            "equipId": 1311,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1311.png",
+                            "equipName": "1934189081968205348"
+                        }
+                    ],
+                    "skill": {
+                        "skillId": 80115,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/flash.png",
+                        "skillName": "7606882661483899723"
+                    },
+                    "highLight": [],
+                    "teamNum": 0,
+                    "teamFlag": 0,
+                    "teamRealFlag": 0
+                },
+                "recCards": []
+            },
+            {
+                "basicInfo": {
+                    "roleId": "1150662",
+                    "roleName": "Rcᵉˡⁿⁱñᵒ",
+                    "roleIcon": "@153",
+                    "openId": "8967743071726705538",
+                    "areaId": 0,
+                    "serverId": 0,
+                    "acntCamp": 1,
+                    "userId": "0",
+                    "isMI": 0,
+                    "isGameAuth": true,
+                    "playerId": "8967743071726705538"
+                },
+                "heroBehavior": {
+                    "winNum": 1,
+                    "loseNum": 3,
+                    "avgScore": "9.2",
+                    "winRate": "25.0%"
+                },
+                "dataBehavior": [
+                    {
+                        "title": "输出",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/0-0.png",
+                        "value1": "15.2%",
+                        "value2": "85.0k"
+                    },
+                    {
+                        "title": "伤害转化",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/1-0.png",
+                        "value1": "0.8",
+                        "value2": ""
+                    },
+                    {
+                        "title": "承受伤害",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/2-0.png",
+                        "value1": "31.2%",
+                        "value2": "192.7k"
+                    },
+                    {
+                        "title": "每死承伤",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/3-0.png",
+                        "value1": "64.2k",
+                        "value2": ""
+                    },
+                    {
+                        "title": "参团率",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/4-0.png",
+                        "value1": "40%",
+                        "value2": ""
+                    }
+                ],
+                "battleStats": {
+                    "killCnt": 3,
+                    "deadCnt": 3,
+                    "assistCnt": 6,
+                    "money": 11305,
+                    "exp": 2202,
+                    "towerCnt": 0,
+                    "evaluateIcon": "",
+                    "gradeGame": "10.0",
+                    "mvp": false,
+                    "godLikeCnt": 0,
+                    "sabchurthero": "a",
+                    "sabcbattle": "a",
+                    "sabcgrow": "a",
+                    "sabcKDA": "b",
+                    "sabcsurvive": "a",
+                    "tripleKillCnt": 0,
+                    "UltraKillCnt": 0,
+                    "rampageCnt": 0,
+                    "defeatAcntRatio": "72.3",
+                    "totalHurtCnt": "287014",
+                    "totalHeroHurtCnt": "84996",
+                    "hurtTransRate": "0.8",
+                    "totalBehurtCnt": "216225",
+                    "totalBeheroHurtCnt": "192654",
+                    "behurtPerDeath": "64218",
+                    "joinGamePercent": "0.409",
+                    "healCnt": "53795",
+                    "ctrlTime": "79",
+                    "buildingDamage": "1316",
+                    "monsterCoin": "269",
+                    "killSoldier": "45",
+                    "oldMasterMatchScore": 1200,
+                    "newMasterMatchScore": 1200,
+                    "disGradeLevelId": "0",
+                    "gradeLevelId": 16,
+                    "fightPower": 10,
+                    "maxKill": 0,
+                    "maxHurt": 0,
+                    "maxBehurt": 0,
+                    "maxAssist": 0,
+                    "maxTower": 0,
+                    "heroLevel": 15,
+                    "kda": "4.50",
+                    "evaluateType": 0,
+                    "addFightPower": 0,
+                    "mvpScoreTth": 1000,
+                    "maxJoinGamePercent": 0,
+                    "maxHeroHurt": 0,
+                    "maxBeheroHurt": 0,
+                    "maxMoney": 0,
+                    "ry": 0,
+                    "evaluateIconV2": "",
+                    "evaluateName": "",
+                    "mvpUrl": ""
+                },
+                "battleRecords": {
+                    "usedHero": {
+                        "heroId": 126,
+                        "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/23rrkYYy.png",
+                        "heroName": "2439859418071596831",
+                        "heroCover": "https://camp.honorofkings.com/social/game/src/image_hero_cover_702*1070/CZFiiGS7.png"
+                    },
+                    "usedSkin": null,
+                    "position": 0,
+                    "inBattleObjid": 216,
+                    "finalEquips": [
+                        {
+                            "equipId": 1534,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1536.png",
+                            "equipName": "1934189138854328385"
+                        },
+                        {
+                            "equipId": 1421,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1421.png",
+                            "equipName": "1934189110368323140"
+                        },
+                        {
+                            "equipId": 1333,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png",
+                            "equipName": "1934189083800471012"
+                        },
+                        {
+                            "equipId": 1335,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png",
+                            "equipName": "1934189083857729314"
+                        },
+                        {
+                            "equipId": 1336,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1336.png",
+                            "equipName": "1934189083886358465"
+                        },
+                        {
+                            "equipId": 11311,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/11311.png",
+                            "equipName": "4619627635126014249"
+                        }
+                    ],
+                    "skill": {
+                        "skillId": 80108,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/80108.png",
+                        "skillName": "7606882660682283495"
+                    },
+                    "highLight": [],
+                    "teamNum": 1,
+                    "teamFlag": 0,
+                    "teamRealFlag": 6
+                },
+                "recCards": []
+            },
+            {
+                "basicInfo": {
+                    "roleId": "1893882",
+                    "roleName": "那個那個那個",
+                    "roleIcon": "https://camp.honorofkings.com/client/upload/hok/avatar/9626030639805320545/9626030639805320545_108011_3_avatar.jpg",
+                    "openId": "9626030639805320545",
+                    "areaId": 0,
+                    "serverId": 0,
+                    "acntCamp": 1,
+                    "userId": "0",
+                    "isMI": 0,
+                    "isGameAuth": true,
+                    "playerId": "9626030639805320545"
+                },
+                "heroBehavior": {
+                    "winNum": 40,
+                    "loseNum": 38,
+                    "avgScore": "8.0",
+                    "winRate": "51.3%"
+                },
+                "dataBehavior": [
+                    {
+                        "title": "输出",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/0-0.png",
+                        "value1": "18.7%",
+                        "value2": "104.9k"
+                    },
+                    {
+                        "title": "伤害转化",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/1-0.png",
+                        "value1": "0.8",
+                        "value2": ""
+                    },
+                    {
+                        "title": "承受伤害",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/2-0.png",
+                        "value1": "10.7%",
+                        "value2": "65.9k"
+                    },
+                    {
+                        "title": "每死承伤",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/3-0.png",
+                        "value1": "22.0k",
+                        "value2": ""
+                    },
+                    {
+                        "title": "参团率",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/4-0.png",
+                        "value1": "36%",
+                        "value2": ""
+                    }
+                ],
+                "battleStats": {
+                    "killCnt": 5,
+                    "deadCnt": 3,
+                    "assistCnt": 3,
+                    "money": 14269,
+                    "exp": 2202,
+                    "towerCnt": 0,
+                    "evaluateIcon": "",
+                    "gradeGame": "6.9",
+                    "mvp": false,
+                    "godLikeCnt": 0,
+                    "sabchurthero": "b",
+                    "sabcbattle": "c",
+                    "sabcgrow": "a",
+                    "sabcKDA": "b",
+                    "sabcsurvive": "a",
+                    "tripleKillCnt": 0,
+                    "UltraKillCnt": 0,
+                    "rampageCnt": 0,
+                    "defeatAcntRatio": "55.3",
+                    "totalHurtCnt": "548890",
+                    "totalHeroHurtCnt": "104874",
+                    "hurtTransRate": "0.8",
+                    "totalBehurtCnt": "95184",
+                    "totalBeheroHurtCnt": "65888",
+                    "behurtPerDeath": "21962",
+                    "joinGamePercent": "0.364",
+                    "healCnt": "5670",
+                    "ctrlTime": "0",
+                    "buildingDamage": "720",
+                    "monsterCoin": "1068",
+                    "killSoldier": "56",
+                    "oldMasterMatchScore": 1200,
+                    "newMasterMatchScore": 1200,
+                    "disGradeLevelId": "0",
+                    "gradeLevelId": 25,
+                    "fightPower": 3429,
+                    "maxKill": 0,
+                    "maxHurt": 0,
+                    "maxBehurt": 0,
+                    "maxAssist": 0,
+                    "maxTower": 0,
+                    "heroLevel": 15,
+                    "kda": "4.00",
+                    "evaluateType": 0,
+                    "addFightPower": 0,
+                    "mvpScoreTth": 690,
+                    "maxJoinGamePercent": 0,
+                    "maxHeroHurt": 0,
+                    "maxBeheroHurt": 0,
+                    "maxMoney": 0,
+                    "ry": 0,
+                    "evaluateIconV2": "",
+                    "evaluateName": "",
+                    "mvpUrl": ""
+                },
+                "battleRecords": {
+                    "usedHero": {
+                        "heroId": 190,
+                        "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/XDnXeq3x.png",
+                        "heroName": "2439859418266459762",
+                        "heroCover": "https://camp.honorofkings.com/social/game/src/image_hero_cover_702*1070/GmKL7b5X.png"
+                    },
+                    "usedSkin": null,
+                    "position": 1,
+                    "inBattleObjid": 869,
+                    "finalEquips": [
+                        {
+                            "equipId": 1424,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1424.png",
+                            "equipName": "1934189110454210593"
+                        },
+                        {
+                            "equipId": 1240,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1240.png",
+                            "equipName": "1934189057089473129"
+                        },
+                        {
+                            "equipId": 1233,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1233.png",
+                            "equipName": "1934189056287856901"
+                        },
+                        {
+                            "equipId": 1232,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png",
+                            "equipName": "1934189056259227750"
+                        },
+                        {
+                            "equipId": 1231,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png",
+                            "equipName": "1934189056230598599"
+                        },
+                        {
+                            "equipId": 1242,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1242.png",
+                            "equipName": "1934189057146731431"
+                        }
+                    ],
+                    "skill": {
+                        "skillId": 80115,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/flash.png",
+                        "skillName": "7606882661483899723"
+                    },
+                    "highLight": [],
+                    "teamNum": 1,
+                    "teamFlag": 0,
+                    "teamRealFlag": 5
+                },
+                "recCards": []
+            },
+            {
+                "basicInfo": {
+                    "roleId": "3434758",
+                    "roleName": "夏洛特、菜",
+                    "roleIcon": "https://res.sgameglobal.com/Global/Common/UGUI/SystemRes/044_Idip/PlayerHeadIcon/4.png",
+                    "openId": "12180053876055111490",
+                    "areaId": 0,
+                    "serverId": 0,
+                    "acntCamp": 1,
+                    "userId": "0",
+                    "isMI": 0,
+                    "isGameAuth": true,
+                    "playerId": "12180053876055111490"
+                },
+                "heroBehavior": {
+                    "winNum": 21,
+                    "loseNum": 10,
+                    "avgScore": "11.7",
+                    "winRate": "67.7%"
+                },
+                "dataBehavior": [
+                    {
+                        "title": "输出",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/0-0.png",
+                        "value1": "20.4%",
+                        "value2": "114.1k"
+                    },
+                    {
+                        "title": "伤害转化",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/1-0.png",
+                        "value1": "0.8",
+                        "value2": ""
+                    },
+                    {
+                        "title": "承受伤害",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/2-0.png",
+                        "value1": "9.9%",
+                        "value2": "61.2k"
+                    },
+                    {
+                        "title": "每死承伤",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/3-0.png",
+                        "value1": "12.2k",
+                        "value2": ""
+                    },
+                    {
+                        "title": "参团率",
+                        "icon": "https://game-1255653016.file.myqcloud.com/HeroAbility_Icon/4-0.png",
+                        "value1": "45%",
+                        "value2": ""
+                    }
+                ],
+                "battleStats": {
+                    "killCnt": 4,
+                    "deadCnt": 5,
+                    "assistCnt": 6,
+                    "money": 15151,
+                    "exp": 2202,
+                    "towerCnt": 0,
+                    "evaluateIcon": "",
+                    "gradeGame": "6.5",
+                    "mvp": false,
+                    "godLikeCnt": 0,
+                    "sabchurthero": "b",
+                    "sabcbattle": "b",
+                    "sabcgrow": "s",
+                    "sabcKDA": "b",
+                    "sabcsurvive": "a",
+                    "tripleKillCnt": 0,
+                    "UltraKillCnt": 0,
+                    "rampageCnt": 0,
+                    "defeatAcntRatio": "53.5",
+                    "totalHurtCnt": "626390",
+                    "totalHeroHurtCnt": "114057",
+                    "hurtTransRate": "0.8",
+                    "totalBehurtCnt": "96023",
+                    "totalBeheroHurtCnt": "61232",
+                    "behurtPerDeath": "12246",
+                    "joinGamePercent": "0.455",
+                    "healCnt": "12089",
+                    "ctrlTime": "0",
+                    "buildingDamage": "250",
+                    "monsterCoin": "2452",
+                    "killSoldier": "57",
+                    "oldMasterMatchScore": 1200,
+                    "newMasterMatchScore": 1200,
+                    "disGradeLevelId": "0",
+                    "gradeLevelId": 22,
+                    "fightPower": 2017,
+                    "maxKill": 0,
+                    "maxHurt": 1,
+                    "maxBehurt": 0,
+                    "maxAssist": 0,
+                    "maxTower": 0,
+                    "heroLevel": 15,
+                    "kda": "3.00",
+                    "evaluateType": 0,
+                    "addFightPower": 0,
+                    "mvpScoreTth": 650,
+                    "maxJoinGamePercent": 0,
+                    "maxHeroHurt": 0,
+                    "maxBeheroHurt": 0,
+                    "maxMoney": 1,
+                    "ry": 0,
+                    "evaluateIconV2": "",
+                    "evaluateName": "",
+                    "mvpUrl": ""
+                },
+                "battleRecords": {
+                    "usedHero": {
+                        "heroId": 132,
+                        "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/48d8GxkP.png",
+                        "heroName": "2439859418096531898",
+                        "heroCover": "https://camp.honorofkings.com/social/game/src/image_hero_cover_702*1070/nF880Z1X.png"
+                    },
+                    "usedSkin": null,
+                    "position": 3,
+                    "inBattleObjid": 2001,
+                    "finalEquips": [
+                        {
+                            "equipId": 1337,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png",
+                            "equipName": "1934189083914987616"
+                        },
+                        {
+                            "equipId": 1422,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1422.png",
+                            "equipName": "1934189110396952291"
+                        },
+                        {
+                            "equipId": 1135,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1135.png",
+                            "equipName": "1934189028832501092"
+                        },
+                        {
+                            "equipId": 1126,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1126.png",
+                            "equipName": "1934189027973626562"
+                        },
+                        {
+                            "equipId": 1341,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png",
+                            "equipName": "1934189084630716391"
+                        },
+                        {
+                            "equipId": 1155,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png",
+                            "equipName": "1934189030607508454"
+                        }
+                    ],
+                    "skill": {
+                        "skillId": 80104,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/80104.png",
+                        "skillName": "7606882660567766891"
+                    },
+                    "highLight": [],
+                    "teamNum": 1,
+                    "teamFlag": 0,
+                    "teamRealFlag": 3
+                },
+                "recCards": []
+            }
+        ],
+        "gameVideoList": [],
+        "teamResBasic": {
+            "basicData": {
+                "name": "排位赛",
+                "startTime": "1729507234",
+                "usedTime": 1265,
+                "teamNum": 1
+            },
+            "redTeam": {
+                "heroList": [
+                    {
+                        "heroId": 577,
+                        "icon": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/Qdvu6qgO.png",
+                        "name": "2439859421765680831"
+                    },
+                    {
+                        "heroId": 517,
+                        "icon": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/ue6KY05b.png",
+                        "name": "2439859421593905925"
+                    }
+                ],
+                "totalMoney": 65592,
+                "towerCnt": 4,
+                "ldragon1": 0,
+                "ldragon2": 1,
+                "bdragon1": 2,
+                "bdragon2": 2,
+                "bdragon3": 0
+            },
+            "blueTeam": {
+                "heroList": [
+                    {
+                        "heroId": 184,
+                        "icon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/kQXkW7ab.png",
+                        "name": "2439859418241524695"
+                    },
+                    {
+                        "heroId": 519,
+                        "icon": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/OzH2TSZN.jpg",
+                        "name": "2439859421595752967"
+                    }
+                ],
+                "totalMoney": 62573,
+                "towerCnt": 0,
+                "ldragon1": 1,
+                "ldragon2": 0,
+                "bdragon1": 0,
+                "bdragon2": 0,
+                "bdragon3": 0
+            }
+        },
+        "player2Player": {
+            "winner": 1,
+            "redPlayerList": [
+                {
+                    "heroId": 142,
+                    "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/wjaExUFU.png",
+                    "heroName": "2439859418125161049",
+                    "openId": "12322330588755184692",
+                    "roleName": "BánhTrángMuốiỚt",
+                    "mvp": 1,
+                    "score": 14,
+                    "killCnt": 8,
+                    "deadCnt": 1,
+                    "assistCnt": 5,
+                    "fight": 3433,
+                    "money": 14831,
+                    "finalEquips": [
+                        {
+                            "equipId": 1424,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1424.png",
+                            "equipName": "1934189110454210593"
+                        },
+                        {
+                            "equipId": 1233,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1233.png",
+                            "equipName": "1934189056287856901"
+                        },
+                        {
+                            "equipId": 1240,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1240.png",
+                            "equipName": "1934189057089473129"
+                        },
+                        {
+                            "equipId": 1232,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png",
+                            "equipName": "1934189056259227750"
+                        },
+                        {
+                            "equipId": 1231,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png",
+                            "equipName": "1934189056230598599"
+                        },
+                        {
+                            "equipId": 1238,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1238.png",
+                            "equipName": "1934189056431002656"
+                        }
+                    ],
+                    "beHurtCnt": 91632,
+                    "hurtCnt": 451664,
+                    "beHurtPerDeath": 83249,
+                    "joinGamePercent": 0.52,
+                    "ctrlTime": 26,
+                    "monsterCoin": 645,
+                    "damageConversionRatio": 1.3,
+                    "killSoldier": 62,
+                    "healCnt": 8365,
+                    "branchType": 3,
+                    "firstBeHurt": 0,
+                    "firstHurt": 0,
+                    "firstBeHurtPerDeath": 1,
+                    "firstJoinGamePercent": 0,
+                    "firstCtrlTime": 1,
+                    "firstMonsterCoin": 0,
+                    "firstDamageConversionRatio": 1,
+                    "firstKillSoldier": 0,
+                    "firstHealCnt": 0,
+                    "firstMoney": 0,
+                    "skillInfoPro": {
+                        "skillId": 80115,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/flash.png",
+                        "skillName": "7606882661483899723"
+                    }
+                },
+                {
+                    "heroId": 528,
+                    "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/02i6M2YK.png",
+                    "heroName": "2439859421623458597",
+                    "openId": "12684518600641319347",
+                    "roleName": "ChipLe",
+                    "mvp": 0,
+                    "score": 7.2,
+                    "killCnt": 7,
+                    "deadCnt": 7,
+                    "assistCnt": 6,
+                    "fight": 220,
+                    "money": 13535,
+                    "finalEquips": [
+                        {
+                            "equipId": 1533,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1533.png",
+                            "equipName": "1934189138825699234"
+                        },
+                        {
+                            "equipId": 1423,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1423.png",
+                            "equipName": "1934189110425581442"
+                        },
+                        {
+                            "equipId": 11311,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/11311.png",
+                            "equipName": "4619627635126014249"
+                        },
+                        {
+                            "equipId": 1137,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1137.png",
+                            "equipName": "1934189028889759394"
+                        },
+                        {
+                            "equipId": 13310,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/13310.png",
+                            "equipName": "4619629340879459980"
+                        },
+                        {
+                            "equipId": 1333,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png",
+                            "equipName": "1934189083800471012"
+                        }
+                    ],
+                    "beHurtCnt": 141161,
+                    "hurtCnt": 618798,
+                    "beHurtPerDeath": 16154,
+                    "joinGamePercent": 0.52,
+                    "ctrlTime": 9,
+                    "monsterCoin": 4281,
+                    "damageConversionRatio": 0.8,
+                    "killSoldier": 25,
+                    "healCnt": 54875,
+                    "branchType": 2,
+                    "firstBeHurt": 0,
+                    "firstHurt": 1,
+                    "firstBeHurtPerDeath": 0,
+                    "firstJoinGamePercent": 0,
+                    "firstCtrlTime": 0,
+                    "firstMonsterCoin": 1,
+                    "firstDamageConversionRatio": 0,
+                    "firstKillSoldier": 0,
+                    "firstHealCnt": 0,
+                    "firstMoney": 0,
+                    "skillInfoPro": {
+                        "skillId": 80104,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/80104.png",
+                        "skillName": "7606882660567766891"
+                    }
+                },
+                {
+                    "heroId": 113,
+                    "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/UZC54GWu.png",
+                    "heroName": "2439859418040197117",
+                    "openId": "10727491643371166698",
+                    "roleName": "LegalEmu#",
+                    "mvp": 0,
+                    "score": 10.2,
+                    "killCnt": 1,
+                    "deadCnt": 4,
+                    "assistCnt": 16,
+                    "fight": 0,
+                    "money": 9751,
+                    "finalEquips": [
+                        {
+                            "equipId": 1724,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1751.png",
+                            "equipName": "1934189192992052926"
+                        },
+                        {
+                            "equipId": 1423,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1423.png",
+                            "equipName": "1934189110425581442"
+                        },
+                        {
+                            "equipId": 1335,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png",
+                            "equipName": "1934189083857729314"
+                        },
+                        {
+                            "equipId": 1353,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1353.png",
+                            "equipName": "1934189085575478374"
+                        },
+                        {
+                            "equipId": 1333,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png",
+                            "equipName": "1934189083800471012"
+                        },
+                        {
+                            "equipId": 1311,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1311.png",
+                            "equipName": "1934189081968205348"
+                        }
+                    ],
+                    "beHurtCnt": 203255,
+                    "hurtCnt": 118570,
+                    "beHurtPerDeath": 43174,
+                    "joinGamePercent": 0.68,
+                    "ctrlTime": 0,
+                    "monsterCoin": 318,
+                    "damageConversionRatio": 1,
+                    "killSoldier": 9,
+                    "healCnt": 18153,
+                    "branchType": 4,
+                    "firstBeHurt": 1,
+                    "firstHurt": 0,
+                    "firstBeHurtPerDeath": 0,
+                    "firstJoinGamePercent": 1,
+                    "firstCtrlTime": 0,
+                    "firstMonsterCoin": 0,
+                    "firstDamageConversionRatio": 0,
+                    "firstKillSoldier": 0,
+                    "firstHealCnt": 0,
+                    "firstMoney": 0,
+                    "skillInfoPro": {
+                        "skillId": 80102,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/80102.png",
+                        "skillName": "7606882660510508589"
+                    }
+                },
+                {
+                    "heroId": 547,
+                    "heroIcon": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/znRnu3kt.png",
+                    "heroName": "2439859421679793378",
+                    "openId": "6314838916938564543",
+                    "roleName": "Bmarq",
+                    "mvp": 0,
+                    "score": 7.3,
+                    "killCnt": 7,
+                    "deadCnt": 6,
+                    "assistCnt": 8,
+                    "fight": 4013,
+                    "money": 12527,
+                    "finalEquips": [
+                        {
+                            "equipId": 1421,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1421.png",
+                            "equipName": "1934189110368323140"
+                        },
+                        {
+                            "equipId": 1136,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1136.png",
+                            "equipName": "1934189028861130243"
+                        },
+                        {
+                            "equipId": 11210,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/11210.png",
+                            "equipName": "4619627607584770987"
+                        },
+                        {
+                            "equipId": 1133,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1133.png",
+                            "equipName": "1934189028775242790"
+                        },
+                        {
+                            "equipId": 1155,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png",
+                            "equipName": "1934189030607508454"
+                        },
+                        {
+                            "equipId": 1141,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1141.png",
+                            "equipName": "1934189029605488169"
+                        }
+                    ],
+                    "beHurtCnt": 98852,
+                    "hurtCnt": 580491,
+                    "beHurtPerDeath": 13073,
+                    "joinGamePercent": 0.6,
+                    "ctrlTime": 10,
+                    "monsterCoin": 2502,
+                    "damageConversionRatio": 1,
+                    "killSoldier": 27,
+                    "healCnt": 3602,
+                    "branchType": 5,
+                    "firstBeHurt": 0,
+                    "firstHurt": 0,
+                    "firstBeHurtPerDeath": 0,
+                    "firstJoinGamePercent": 0,
+                    "firstCtrlTime": 0,
+                    "firstMonsterCoin": 0,
+                    "firstDamageConversionRatio": 0,
+                    "firstKillSoldier": 0,
+                    "firstHealCnt": 0,
+                    "firstMoney": 0,
+                    "skillInfoPro": {
+                        "skillId": 80115,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/flash.png",
+                        "skillName": "7606882661483899723"
+                    }
+                },
+                {
+                    "heroId": 507,
+                    "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/mWSBbpVr.png",
+                    "heroName": "2439859421565276774",
+                    "openId": "6640565939047432039",
+                    "roleName": "中年玩家",
+                    "mvp": 0,
+                    "score": 8.9,
+                    "killCnt": 2,
+                    "deadCnt": 4,
+                    "assistCnt": 2,
+                    "fight": 3544,
+                    "money": 14948,
+                    "finalEquips": [
+                        {
+                            "equipId": 1135,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1135.png",
+                            "equipName": "1934189028832501092"
+                        },
+                        {
+                            "equipId": 1421,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1421.png",
+                            "equipName": "1934189110368323140"
+                        },
+                        {
+                            "equipId": 1126,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1126.png",
+                            "equipName": "1934189027973626562"
+                        },
+                        {
+                            "equipId": 1333,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png",
+                            "equipName": "1934189083800471012"
+                        },
+                        {
+                            "equipId": 1338,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1338.png",
+                            "equipName": "1934189083943616767"
+                        },
+                        {
+                            "equipId": 1328,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1328.png",
+                            "equipName": "1934189083056113086"
+                        }
+                    ],
+                    "beHurtCnt": 141756,
+                    "hurtCnt": 613940,
+                    "beHurtPerDeath": 28075,
+                    "joinGamePercent": 0.16,
+                    "ctrlTime": 19,
+                    "monsterCoin": 1576,
+                    "damageConversionRatio": 0.9,
+                    "killSoldier": 74,
+                    "healCnt": 75448,
+                    "branchType": 1,
+                    "firstBeHurt": 0,
+                    "firstHurt": 0,
+                    "firstBeHurtPerDeath": 0,
+                    "firstJoinGamePercent": 0,
+                    "firstCtrlTime": 0,
+                    "firstMonsterCoin": 0,
+                    "firstDamageConversionRatio": 0,
+                    "firstKillSoldier": 1,
+                    "firstHealCnt": 0,
+                    "firstMoney": 1,
+                    "skillInfoPro": {
+                        "skillId": 80108,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/80108.png",
+                        "skillName": "7606882660682283495"
+                    }
+                }
+            ],
+            "bluePlayerList": [
+                {
+                    "heroId": 169,
+                    "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/S5isJokI.png",
+                    "heroName": "2439859418188883998",
+                    "openId": "1660150296936322642",
+                    "roleName": "国服在榜人机",
+                    "mvp": 2,
+                    "score": 10.6,
+                    "killCnt": 8,
+                    "deadCnt": 7,
+                    "assistCnt": 7,
+                    "fight": 459,
+                    "money": 13529,
+                    "finalEquips": [
+                        {
+                            "equipId": 1425,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1425.png",
+                            "equipName": "1934189110482839744"
+                        },
+                        {
+                            "equipId": 1135,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1135.png",
+                            "equipName": "1934189028832501092"
+                        },
+                        {
+                            "equipId": 1126,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1126.png",
+                            "equipName": "1934189027973626562"
+                        },
+                        {
+                            "equipId": 1141,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1141.png",
+                            "equipName": "1934189029605488169"
+                        },
+                        {
+                            "equipId": 1128,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1128.png",
+                            "equipName": "1934189028030884864"
+                        },
+                        {
+                            "equipId": 1338,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1338.png",
+                            "equipName": "1934189083943616767"
+                        }
+                    ],
+                    "beHurtCnt": 101046,
+                    "hurtCnt": 625035,
+                    "beHurtPerDeath": 12067,
+                    "joinGamePercent": 0.682,
+                    "ctrlTime": 45,
+                    "monsterCoin": 1823,
+                    "damageConversionRatio": 1.5,
+                    "killSoldier": 40,
+                    "healCnt": 12312,
+                    "branchType": 5,
+                    "firstBeHurt": 0,
+                    "firstHurt": 0,
+                    "firstBeHurtPerDeath": 0,
+                    "firstJoinGamePercent": 1,
+                    "firstCtrlTime": 0,
+                    "firstMonsterCoin": 0,
+                    "firstDamageConversionRatio": 1,
+                    "firstKillSoldier": 0,
+                    "firstHealCnt": 0,
+                    "firstMoney": 0,
+                    "skillInfoPro": {
+                        "skillId": 80115,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/flash.png",
+                        "skillName": "7606882661483899723"
+                    }
+                },
+                {
+                    "heroId": 114,
+                    "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/i8WMjP6d.png",
+                    "heroName": "2439859418041120638",
+                    "openId": "1893492438921401384",
+                    "roleName": "SombrioFotog",
+                    "mvp": 0,
+                    "score": 9.3,
+                    "killCnt": 2,
+                    "deadCnt": 7,
+                    "assistCnt": 9,
+                    "fight": 0,
+                    "money": 8319,
+                    "finalEquips": [
+                        {
+                            "equipId": 1737,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1749.png",
+                            "equipName": "1934189193965444060"
+                        },
+                        {
+                            "equipId": 1422,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1422.png",
+                            "equipName": "1934189110396952291"
+                        },
+                        {
+                            "equipId": 1336,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1336.png",
+                            "equipName": "1934189083886358465"
+                        },
+                        {
+                            "equipId": 1347,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1347.png",
+                            "equipName": "1934189084802491297"
+                        },
+                        {
+                            "equipId": 1325,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1325.png",
+                            "equipName": "1934189082970225633"
+                        },
+                        {
+                            "equipId": 1311,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1311.png",
+                            "equipName": "1934189081968205348"
+                        }
+                    ],
+                    "beHurtCnt": 225858,
+                    "hurtCnt": 81561,
+                    "beHurtPerDeath": 30407,
+                    "joinGamePercent": 0.5,
+                    "ctrlTime": 50,
+                    "monsterCoin": 204,
+                    "damageConversionRatio": 1.1,
+                    "killSoldier": 3,
+                    "healCnt": 11245,
+                    "branchType": 4,
+                    "firstBeHurt": 1,
+                    "firstHurt": 0,
+                    "firstBeHurtPerDeath": 0,
+                    "firstJoinGamePercent": 0,
+                    "firstCtrlTime": 0,
+                    "firstMonsterCoin": 0,
+                    "firstDamageConversionRatio": 0,
+                    "firstKillSoldier": 0,
+                    "firstHealCnt": 0,
+                    "firstMoney": 0,
+                    "skillInfoPro": {
+                        "skillId": 80115,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/flash.png",
+                        "skillName": "7606882661483899723"
+                    }
+                },
+                {
+                    "heroId": 126,
+                    "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/23rrkYYy.png",
+                    "heroName": "2439859418071596831",
+                    "openId": "8967743071726705538",
+                    "roleName": "Rcᵉˡⁿⁱñᵒ",
+                    "mvp": 0,
+                    "score": 10,
+                    "killCnt": 3,
+                    "deadCnt": 3,
+                    "assistCnt": 6,
+                    "fight": 10,
+                    "money": 11305,
+                    "finalEquips": [
+                        {
+                            "equipId": 1534,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1536.png",
+                            "equipName": "1934189138854328385"
+                        },
+                        {
+                            "equipId": 1421,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1421.png",
+                            "equipName": "1934189110368323140"
+                        },
+                        {
+                            "equipId": 1333,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png",
+                            "equipName": "1934189083800471012"
+                        },
+                        {
+                            "equipId": 1335,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png",
+                            "equipName": "1934189083857729314"
+                        },
+                        {
+                            "equipId": 1336,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1336.png",
+                            "equipName": "1934189083886358465"
+                        },
+                        {
+                            "equipId": 11311,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/11311.png",
+                            "equipName": "4619627635126014249"
+                        }
+                    ],
+                    "beHurtCnt": 216225,
+                    "hurtCnt": 287014,
+                    "beHurtPerDeath": 64218,
+                    "joinGamePercent": 0.409,
+                    "ctrlTime": 79,
+                    "monsterCoin": 269,
+                    "damageConversionRatio": 0.8,
+                    "killSoldier": 45,
+                    "healCnt": 53795,
+                    "branchType": 1,
+                    "firstBeHurt": 0,
+                    "firstHurt": 0,
+                    "firstBeHurtPerDeath": 1,
+                    "firstJoinGamePercent": 0,
+                    "firstCtrlTime": 1,
+                    "firstMonsterCoin": 0,
+                    "firstDamageConversionRatio": 0,
+                    "firstKillSoldier": 0,
+                    "firstHealCnt": 0,
+                    "firstMoney": 0,
+                    "skillInfoPro": {
+                        "skillId": 80108,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/80108.png",
+                        "skillName": "7606882660682283495"
+                    }
+                },
+                {
+                    "heroId": 190,
+                    "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/XDnXeq3x.png",
+                    "heroName": "2439859418266459762",
+                    "openId": "9626030639805320545",
+                    "roleName": "那個那個那個",
+                    "mvp": 0,
+                    "score": 6.9,
+                    "killCnt": 5,
+                    "deadCnt": 3,
+                    "assistCnt": 3,
+                    "fight": 3429,
+                    "money": 14269,
+                    "finalEquips": [
+                        {
+                            "equipId": 1424,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1424.png",
+                            "equipName": "1934189110454210593"
+                        },
+                        {
+                            "equipId": 1240,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1240.png",
+                            "equipName": "1934189057089473129"
+                        },
+                        {
+                            "equipId": 1233,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1233.png",
+                            "equipName": "1934189056287856901"
+                        },
+                        {
+                            "equipId": 1232,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png",
+                            "equipName": "1934189056259227750"
+                        },
+                        {
+                            "equipId": 1231,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png",
+                            "equipName": "1934189056230598599"
+                        },
+                        {
+                            "equipId": 1242,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1242.png",
+                            "equipName": "1934189057146731431"
+                        }
+                    ],
+                    "beHurtCnt": 95184,
+                    "hurtCnt": 548890,
+                    "beHurtPerDeath": 21962,
+                    "joinGamePercent": 0.364,
+                    "ctrlTime": 0,
+                    "monsterCoin": 1068,
+                    "damageConversionRatio": 0.8,
+                    "killSoldier": 56,
+                    "healCnt": 5670,
+                    "branchType": 3,
+                    "firstBeHurt": 0,
+                    "firstHurt": 0,
+                    "firstBeHurtPerDeath": 0,
+                    "firstJoinGamePercent": 0,
+                    "firstCtrlTime": 0,
+                    "firstMonsterCoin": 0,
+                    "firstDamageConversionRatio": 0,
+                    "firstKillSoldier": 0,
+                    "firstHealCnt": 0,
+                    "firstMoney": 0,
+                    "skillInfoPro": {
+                        "skillId": 80115,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/flash.png",
+                        "skillName": "7606882661483899723"
+                    }
+                },
+                {
+                    "heroId": 132,
+                    "heroIcon": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/48d8GxkP.png",
+                    "heroName": "2439859418096531898",
+                    "openId": "12180053876055111490",
+                    "roleName": "夏洛特、菜",
+                    "mvp": 0,
+                    "score": 6.5,
+                    "killCnt": 4,
+                    "deadCnt": 5,
+                    "assistCnt": 6,
+                    "fight": 2017,
+                    "money": 15151,
+                    "finalEquips": [
+                        {
+                            "equipId": 1337,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png",
+                            "equipName": "1934189083914987616"
+                        },
+                        {
+                            "equipId": 1422,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1422.png",
+                            "equipName": "1934189110396952291"
+                        },
+                        {
+                            "equipId": 1135,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1135.png",
+                            "equipName": "1934189028832501092"
+                        },
+                        {
+                            "equipId": 1126,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1126.png",
+                            "equipName": "1934189027973626562"
+                        },
+                        {
+                            "equipId": 1341,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png",
+                            "equipName": "1934189084630716391"
+                        },
+                        {
+                            "equipId": 1155,
+                            "equipIcon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png",
+                            "equipName": "1934189030607508454"
+                        }
+                    ],
+                    "beHurtCnt": 96023,
+                    "hurtCnt": 626390,
+                    "beHurtPerDeath": 12246,
+                    "joinGamePercent": 0.455,
+                    "ctrlTime": 0,
+                    "monsterCoin": 2452,
+                    "damageConversionRatio": 0.8,
+                    "killSoldier": 57,
+                    "healCnt": 12089,
+                    "branchType": 2,
+                    "firstBeHurt": 0,
+                    "firstHurt": 1,
+                    "firstBeHurtPerDeath": 0,
+                    "firstJoinGamePercent": 0,
+                    "firstCtrlTime": 0,
+                    "firstMonsterCoin": 1,
+                    "firstDamageConversionRatio": 0,
+                    "firstKillSoldier": 1,
+                    "firstHealCnt": 0,
+                    "firstMoney": 1,
+                    "skillInfoPro": {
+                        "skillId": 80104,
+                        "skillIcon": "https://camp.honorofkings.com/Global/Common/UGUI/SystemRes/902_HeroSkillIcon/80104.png",
+                        "skillName": "7606882660567766891"
+                    }
+                }
+            ]
+        }
+    }
+}
